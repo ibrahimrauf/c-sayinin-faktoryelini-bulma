@@ -1,0 +1,15 @@
+C:\Vs code\C#\c# sayının faktöriyeni bulma\bin\Debug\net6.0\c# sayının faktöriyeni bulma.exe
+C:\Vs code\C#\c# sayının faktöriyeni bulma\bin\Debug\net6.0\c# sayının faktöriyeni bulma.deps.json
+C:\Vs code\C#\c# sayının faktöriyeni bulma\bin\Debug\net6.0\c# sayının faktöriyeni bulma.runtimeconfig.json
+C:\Vs code\C#\c# sayının faktöriyeni bulma\bin\Debug\net6.0\c# sayının faktöriyeni bulma.dll
+C:\Vs code\C#\c# sayının faktöriyeni bulma\bin\Debug\net6.0\c# sayının faktöriyeni bulma.pdb
+C:\Vs code\C#\c# sayının faktöriyeni bulma\obj\Debug\net6.0\c# sayının faktöriyeni bulma.csproj.AssemblyReference.cache
+C:\Vs code\C#\c# sayının faktöriyeni bulma\obj\Debug\net6.0\c# sayının faktöriyeni bulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vs code\C#\c# sayının faktöriyeni bulma\obj\Debug\net6.0\c# sayının faktöriyeni bulma.AssemblyInfoInputs.cache
+C:\Vs code\C#\c# sayının faktöriyeni bulma\obj\Debug\net6.0\c# sayının faktöriyeni bulma.AssemblyInfo.cs
+C:\Vs code\C#\c# sayının faktöriyeni bulma\obj\Debug\net6.0\c# sayının faktöriyeni bulma.csproj.CoreCompileInputs.cache
+C:\Vs code\C#\c# sayının faktöriyeni bulma\obj\Debug\net6.0\c# sayının faktöriyeni bulma.dll
+C:\Vs code\C#\c# sayının faktöriyeni bulma\obj\Debug\net6.0\refint\c# sayının faktöriyeni bulma.dll
+C:\Vs code\C#\c# sayının faktöriyeni bulma\obj\Debug\net6.0\c# sayının faktöriyeni bulma.pdb
+C:\Vs code\C#\c# sayının faktöriyeni bulma\obj\Debug\net6.0\c# sayının faktöriyeni bulma.genruntimeconfig.cache
+C:\Vs code\C#\c# sayının faktöriyeni bulma\obj\Debug\net6.0\ref\c# sayının faktöriyeni bulma.dll

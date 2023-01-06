@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "c# sayının faktöriyeni bulma/1.0.0": {
+        "runtime": {
+          "c# sayının faktöriyeni bulma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "c# sayının faktöriyeni bulma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
